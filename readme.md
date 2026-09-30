@@ -84,8 +84,8 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email:** [iatco5h@gmail.com](mailto:iatco5h@gmail.com)
+- **Email:** [sunilsharma.work@outlook.com](mailto:sunilsharma.work@outlook.com)
 - **Phone:** +91 9352628954
-- **LinkedIn:** [linkedin.com/in/Shubham](https://www.linkedin.com/in/shubham-singh-64827a228/)
+- **LinkedIn:** [linkedin.com/in/sunil sharma](https://www.linkedin.com/in/sunil-sharma-31003143a/)
 
 I look forward to hearing from you!
