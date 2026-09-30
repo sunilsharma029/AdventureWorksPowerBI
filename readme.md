@@ -59,7 +59,7 @@ This dashboard is designed to:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/powerbi-dashboard.git
+    git clone https://github.com/sunilsharma029/powerbi-dashboard.git
     ```
 
 2. Open the `.pbix` file in Power BI Desktop:
